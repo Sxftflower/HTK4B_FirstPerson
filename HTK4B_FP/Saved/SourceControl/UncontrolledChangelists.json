@@ -7,9 +7,10 @@
 			"files": [
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Textures/M_Grundriss.uasset",
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Maps/L_FirstPerson.umap",
-				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_GrapableBase.uasset",
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
-				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset"
+				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset",
+				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Materials/M_Gold.uasset",
+				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_GrapableBase.uasset"
 			]
 		}
 	]
