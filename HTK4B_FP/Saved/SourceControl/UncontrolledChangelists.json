@@ -10,6 +10,8 @@
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset",
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Materials/M_Gold.uasset",
+				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/LevelTools/A_Spline_Base.uasset",
+				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/LevelTools/A_Spline_Fence.uasset",
 				"C:/Github/HTK4B_FirstPerson/HTK4B_FP/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_GrapableBase.uasset"
 			]
 		}
